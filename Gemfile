@@ -35,9 +35,6 @@ gem 'kaminari'
 # Base62 encode
 gem 'base62-rb'
 
-# Fontawesome
-gem 'font-awesome-sass', '~> 5.9.0'
-
 # Counter culture
 gem 'counter_culture'
 
